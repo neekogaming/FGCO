@@ -1,0 +1,224 @@
+{
+	"metadata": {
+		"characters": [
+			"Warwick",
+			"Vi"
+		],
+		"damage": 534,
+		"description": "Can be done pretty much everywhere",
+		"game": "2XKO",
+		"notation": "Midscreen BnB",
+		"pack": "",
+		"tags": []
+	},
+	"sequence": [
+		{
+			"comment": "",
+			"down_ms": 703.311,
+			"icon_override": "",
+			"type": "button",
+			"up_ms": 778.983,
+			"value": "Medium"
+		},
+		{
+			"comment": "",
+			"down_ms": 838.909,
+			"icon_override": "",
+			"type": "direction",
+			"up_ms": 1123.511,
+			"value": 2
+		},
+		{
+			"comment": "",
+			"down_ms": 961.8,
+			"icon_override": "",
+			"type": "button",
+			"up_ms": 1063.372,
+			"value": "Medium"
+		},
+		{
+			"comment": "",
+			"down_ms": 1347.447,
+			"icon_override": "",
+			"type": "button",
+			"up_ms": 1466.823,
+			"value": "Heavy"
+		},
+		{
+			"comment": "",
+			"down_ms": 1722.886,
+			"icon_override": "",
+			"type": "direction",
+			"up_ms": 2154.159,
+			"value": 2
+		},
+		{
+			"comment": "",
+			"down_ms": 1798.921,
+			"icon_override": "",
+			"type": "button",
+			"up_ms": 2182.203,
+			"value": "Special1"
+		},
+		{
+			"comment": "",
+			"down_ms": 2507.392,
+			"icon_override": "",
+			"type": "button",
+			"up_ms": 2587.473,
+			"value": "Medium"
+		},
+		{
+			"comment": "",
+			"down_ms": 3438.536,
+			"icon_override": "",
+			"type": "button",
+			"up_ms": 3523.439,
+			"value": "Heavy"
+		},
+		{
+			"comment": "",
+			"down_ms": 3695.291,
+			"icon_override": "",
+			"type": "direction",
+			"up_ms": 4018.576,
+			"value": 6
+		},
+		{
+			"comment": "",
+			"down_ms": 3703.193,
+			"icon_override": "",
+			"type": "direction",
+			"up_ms": 4022.619,
+			"value": 8
+		},
+		{
+			"comment": "",
+			"down_ms": 3958.864,
+			"icon_override": "",
+			"type": "button",
+			"up_ms": 4062.521,
+			"value": "Light"
+		},
+		{
+			"comment": "",
+			"down_ms": 4187.314,
+			"icon_override": "",
+			"type": "button",
+			"up_ms": 4278.687,
+			"value": "Medium"
+		},
+		{
+			"comment": "",
+			"down_ms": 4550.348,
+			"icon_override": "",
+			"type": "button",
+			"up_ms": 4618.966,
+			"value": "Heavy"
+		},
+		{
+			"comment": "",
+			"down_ms": 4978.629,
+			"icon_override": "",
+			"type": "direction",
+			"up_ms": 5402.431,
+			"value": 2
+		},
+		{
+			"comment": "",
+			"down_ms": 5254.346,
+			"icon_override": "",
+			"type": "button",
+			"up_ms": 5343.341,
+			"value": "Heavy"
+		},
+		{
+			"comment": "",
+			"down_ms": 5442.951,
+			"icon_override": "",
+			"type": "direction",
+			"up_ms": 5778.695,
+			"value": 6
+		},
+		{
+			"comment": "",
+			"down_ms": 5487.298,
+			"icon_override": "",
+			"type": "direction",
+			"up_ms": 5786.696,
+			"value": 8
+		},
+		{
+			"comment": "",
+			"down_ms": 5807.066,
+			"icon_override": "",
+			"type": "button",
+			"up_ms": 5907.506,
+			"value": "Medium"
+		},
+		{
+			"comment": "",
+			"down_ms": 6119.121,
+			"icon_override": "",
+			"type": "button",
+			"up_ms": 6198.601,
+			"value": "Heavy"
+		},
+		{
+			"comment": "",
+			"down_ms": 6510.426,
+			"icon_override": "",
+			"type": "button",
+			"up_ms": 6570.97,
+			"value": "Special1"
+		},
+		{
+			"comment": "",
+			"down_ms": 7647.807,
+			"icon_override": "",
+			"type": "direction",
+			"up_ms": 7791.71,
+			"value": 6
+		},
+		{
+			"comment": "",
+			"down_ms": 7687.148,
+			"icon_override": "",
+			"type": "button",
+			"up_ms": 7787.705,
+			"value": "Special2"
+		},
+		{
+			"comment": "",
+			"down_ms": 8623.11,
+			"icon_override": "",
+			"type": "direction",
+			"up_ms": 8810.646,
+			"value": 2
+		},
+		{
+			"comment": "",
+			"down_ms": 8718.588,
+			"icon_override": "",
+			"type": "button",
+			"up_ms": 8799.231,
+			"value": "Special2"
+		},
+		{
+			"comment": "",
+			"down_ms": 9350.67,
+			"icon_override": "",
+			"type": "button",
+			"up_ms": 9434.273,
+			"value": "Special1"
+		},
+		{
+			"comment": "",
+			"down_ms": 9355.115,
+			"icon_override": "",
+			"type": "button",
+			"up_ms": 9426.733,
+			"value": "Light"
+		}
+	]
+}

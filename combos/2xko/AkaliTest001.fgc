@@ -1,0 +1,120 @@
+{
+	"metadata": {
+		"characters": [
+			"Akiali",
+			""
+		],
+		"damage": 0,
+		"description": "",
+		"game": "2XKO",
+		"notation": "AkaliTest001",
+		"pack": "",
+		"tags": []
+	},
+	"sequence": [
+		{
+			"comment": "",
+			"down_ms": 333.377,
+			"icon_override": "",
+			"type": "button",
+			"up_ms": 398.158,
+			"value": "Medium"
+		},
+		{
+			"comment": "",
+			"down_ms": 501.454,
+			"icon_override": "",
+			"type": "button",
+			"up_ms": 589.475,
+			"value": "Heavy"
+		},
+		{
+			"comment": "",
+			"down_ms": 990.283,
+			"icon_override": "",
+			"type": "direction",
+			"up_ms": 1301.439,
+			"value": 2
+		},
+		{
+			"comment": "",
+			"down_ms": 990.283,
+			"icon_override": "",
+			"type": "direction",
+			"up_ms": 1301.439,
+			"value": 6
+		},
+		{
+			"comment": "",
+			"down_ms": 1212.668,
+			"icon_override": "",
+			"type": "button",
+			"up_ms": 1317.935,
+			"value": "Heavy"
+		},
+		{
+			"comment": "",
+			"down_ms": 1804.549,
+			"icon_override": "",
+			"type": "direction",
+			"up_ms": 1926.057,
+			"value": 8
+		},
+		{
+			"comment": "",
+			"down_ms": 1804.549,
+			"icon_override": "",
+			"type": "direction",
+			"up_ms": 1926.057,
+			"value": 6
+		},
+		{
+			"comment": "",
+			"down_ms": 1957.558,
+			"icon_override": "",
+			"type": "button",
+			"up_ms": 2310.211,
+			"value": "Heavy"
+		},
+		{
+			"comment": "",
+			"down_ms": 2893.551,
+			"icon_override": "",
+			"type": "direction",
+			"up_ms": 3029.474,
+			"value": 8
+		},
+		{
+			"comment": "",
+			"down_ms": 2893.551,
+			"icon_override": "",
+			"type": "direction",
+			"up_ms": 3029.474,
+			"value": 6
+		},
+		{
+			"comment": "",
+			"down_ms": 3029.474,
+			"icon_override": "",
+			"type": "button",
+			"up_ms": 3141.542,
+			"value": "Heavy"
+		},
+		{
+			"comment": "",
+			"down_ms": 3149.577,
+			"icon_override": "",
+			"type": "direction",
+			"up_ms": 3590.233,
+			"value": 2
+		},
+		{
+			"comment": "",
+			"down_ms": 3277.28,
+			"icon_override": "",
+			"type": "button",
+			"up_ms": 3380.514,
+			"value": "Heavy"
+		}
+	]
+}
